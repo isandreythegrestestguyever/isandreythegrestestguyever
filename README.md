@@ -15,7 +15,7 @@
 
 ## About
 
-I'm Andrey. I'm into quantitative analysis and macroeconomics, and I like studying how they connect to day trading and intraday price action. I use Python to explore market data and test ideas. I also have some experience with ethical hacking and enjoy learning how systems work.
+I'm Andrey. I'm into quantitative analysis and macroeconomics, especially how they connect to day trading and intraday price action. I use Python to explore market data and test ideas. I've also dabbled in ethical hacking and enjoy figuring out how systems work.
 
 - 💬 **Discord:** `gtt3`
 
@@ -24,12 +24,11 @@ I'm Andrey. I'm into quantitative analysis and macroeconomics, and I like studyi
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Quantitative Analysis](https://img.shields.io/badge/Quantitative_Analysis-2563EB?style=for-the-badge)
-![Macroeconomics](https://img.shields.io/badge/Macroeconomics-475569?style=for-the-badge)
-![Day Trading](https://img.shields.io/badge/Day_Trading-EF4444?style=for-the-badge)
-![Intraday Analysis](https://img.shields.io/badge/Intraday_Analysis-F59E0B?style=for-the-badge)
-![Portfolio Risk](https://img.shields.io/badge/Portfolio_Risk-0F766E?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-7C3AED?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
