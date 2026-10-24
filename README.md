@@ -49,3 +49,12 @@ I'm Andrey, a developer interested in building practical software and learning h
 *Thanks for stopping by — take a look around.* ✨
 
 </div>
+
+
+## Core skills
+
+- **Programming:** Python
+- **Data analysis:** pandas, NumPy, Plotly
+- **App development:** Streamlit
+- **Quantitative finance:** options pricing and portfolio risk analysis
+- **Tools:** Git and GitHub
