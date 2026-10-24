@@ -2,7 +2,7 @@
 
 # Hey, I'm Andrey 👋
 
-### Quantitative analysis · Macro · Intraday markets
+### Quantitative analysis · Macro · Intraday Trader
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=42B883&center=true&vCenter=true&width=520&lines=Exploring+markets+through+data;Following+macro+and+intraday+price+action;Building+with+Python)](https://git.io/typing-svg)
 
