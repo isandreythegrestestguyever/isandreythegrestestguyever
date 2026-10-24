@@ -15,7 +15,7 @@
 
 ## About
 
-I'm Andrey. I'm into quantitative analysis and macroeconomics, especially how they connect to day trading and intraday price action. I use Python to explore market data and test ideas. I've also dabbled in ethical hacking and enjoy figuring out how systems work.
+I'm Andrey. I'm into quantitative analysis and macroeconomics, especially how they connect to day trading and intraday price action. i'm a good coder
 
 - 💬 **Discord:** `gtt3`
 
