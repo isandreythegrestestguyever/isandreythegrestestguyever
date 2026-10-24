@@ -32,16 +32,6 @@ I'm Andrey. I'm into quantitative analysis and macroeconomics, especially how th
 
 </div>
 
-## GitHub activity
-
-<div align="center">
-
-[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=isandreythegrestestguyever&show_icons=true&hide_border=true&title_color=176b52&icon_color=42b883&text_color=394b43&bg_color=f6f7f4)](https://github.com/isandreythegrestestguyever)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isandreythegrestestguyever&layout=compact&hide_border=true&title_color=176b52&text_color=394b43&bg_color=f6f7f4)](https://github.com/isandreythegrestestguyever)
-
-</div>
-
 ---
 
 <div align="center">
